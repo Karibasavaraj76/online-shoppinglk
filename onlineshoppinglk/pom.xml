@@ -16,6 +16,13 @@
  </properties>
  
  <dependencies>
+ 
+   <!--Link backend project  -->
+   <dependency>
+  <groupId>net.lk</groupId>
+  <artifactId>shoppingbackendlk</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+   </dependency> 
   
   <!--  JAVA EE API -->
 <dependency>
