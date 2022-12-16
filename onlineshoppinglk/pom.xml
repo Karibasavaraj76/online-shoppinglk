@@ -12,7 +12,7 @@
   <!-- Versions Information Stored Here -->
  <properties>
   <javaee.version>8.0</javaee.version>
-  <spring.version>5.0.6.RELEASE</spring.version>
+  <spring.version>5.2.20.RELEASE</spring.version>
  </properties>
  
  <dependencies>
